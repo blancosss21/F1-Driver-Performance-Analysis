@@ -36,11 +36,15 @@ cd f1-performance-analysis
 ```
 ---
 ## 🌐 Data Sources
+
 The primary data source for this project is the Ergast API, which provides historical Formula 1 data, including race results, driver statistics, and more. The API was used to gather race results from the 2020 to 2023 seasons.
+
 ---
-## Key Findings
+## 🔑Key Findings
+
 🏆 Max Verstappen emerged as the top driver, showcasing exceptional consistency and performance.
 🌟 Lando Norris and 🏎️ Charles Leclerc have demonstrated significant growth and competitiveness in the standings.
 🚀 Oscar Piastri is developing into a promising driver, while both 🧓 Fernando Alonso and 😞 Sergio Pérez have experienced declines in their performance.
 The 2024 season is expected to be competitive, with new talents challenging established drivers.
+
 ---
