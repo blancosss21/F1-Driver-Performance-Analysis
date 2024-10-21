@@ -58,6 +58,10 @@ The project includes several visualizations to illustrate the findings, such as:
 📉 Line plots showing the trend of points earned by drivers over the seasons.
 📊 Bar plots visualizing the average points earned by drivers at each circuit.
 
+
+![Radar Chart](download/screenshot1.png)
+
+
 ---
 
 ## 🤝 Contributions
@@ -89,5 +93,6 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 ```bash
 - Make sure to replace any placeholder links for images and example codes with the actual content or paths relevant to your project.
 - You can customize the emojis and descriptions to better fit your style!
+```
 ---
 
